@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/ARDKExamples/ContextAwareness/Gameboard/Gameboard.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
